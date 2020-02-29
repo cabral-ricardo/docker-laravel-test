@@ -8,7 +8,7 @@ https://hub.docker.com/repository/docker/cabralricardo/laravel
 composer install
 
 ## config .env
-- rename .env.example to .env
+- create a new file .env and copy content .env.example
 - changes:
   - DB_HOST=127.0.0.1 to DB_HOST=db
   - DB_PASSWORD= to DB_PASSWORD=root
