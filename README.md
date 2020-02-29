@@ -5,7 +5,10 @@ This repository contains an image to up container laravel
 https://hub.docker.com/repository/docker/cabralricardo/laravel
 
 ## install composer
-composer install
+composer install for windows
+
+### other operating system
+https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
 
 ## config .env
 - create a new file .env and copy content .env.example
