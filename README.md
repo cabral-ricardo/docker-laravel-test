@@ -5,7 +5,10 @@ This repository contains an image to up container laravel
 https://hub.docker.com/repository/docker/cabralricardo/laravel
 
 ## install composer
-composer install or composer install --ignore-platform-reqs in error case
+- composer install 
+or 
+- composer install --ignore-platform-reqs 
+-> in error case
 
 ### other operating system
 https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
