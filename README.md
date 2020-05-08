@@ -25,3 +25,6 @@ docker-compose up -d --build
 
 ## stop docker compose
 docker-compose down
+
+## add cloud build
+https://cloud.google.com/cloud-build/docs/build-config
